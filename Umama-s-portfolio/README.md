@@ -1,9 +1,5 @@
 Sure! Here's a basic README template for your GitHub portfolio:
 
-# Umama Arif - Portfolio
-
-![Portfolio Preview](./assets/img/preview.jpg)
-
 Welcome to my GitHub portfolio! This repository showcases my skills, projects, and achievements as a Full Stack Developer, MERN Stack Developer, and Graphic Designer.
 
 ## About Me
